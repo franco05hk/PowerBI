@@ -1,21 +1,38 @@
 # This PowerBI project is aimed to process and visualize the data from a survey about the data industry. 
 The survey questions are as below:
+
 <br>Q1. Which title best fits your current role
+
 <br>Q2. Did you switch careers to data
+
 <br>Q3. Current yearly salary(USD)
+
 <br>Q4. What industry do you work in
+
 <br>Q5. Favorite programming language
+
 <br>Q6a. How happy are you in your current position with work/life balance
+
 <br>Q6b. How happy are you in your current position with coworkers
+
 <br>Q6c. How happy are you in your current position with management
+
 <br>Q6d. How happy are you in your current position with upward mobility
+
 <br>Q6e. How happy are you in your current position with learning new things
+
 <br>Q7. How difficult was it for you to break into data
+
 <br>Q8. If you were to look for a new job today, what would be the most important thing to you
+
 <br>Q9. Male/female
+
 <br>Q10. Current age
+
 <br>Q11. Which Country do you live in
+
 <br>Q12. Highest Level of Education
+
 <br>Q13. Ethnicity
 
 # Analysis results 
