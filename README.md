@@ -1,7 +1,7 @@
 # Introduction
 This PowerBI project is aimed to process and visualize the data from a survey about the data industry. 
 
-# Abstract for the project
+# Abstract
 - The average age of participants is 30 years.
 - Salary for data-related roles shows little gender disparity.
 - Python is the preferred programming language among participants, followed by R.
@@ -10,12 +10,9 @@ This PowerBI project is aimed to process and visualize the data from a survey ab
 - A significant portion (42.7%) finds breaking into data neither easy nor difficult, while 24.8% find it difficult.
 - Participants rated 'salary' and 'upward mobility' lowest (4.27 and 4.76 respectively), while 'coworker' and 'work/life balance' received the highest scores (5.86 and 5.74).
 
-# Analysis results 
+# Visuals 
 ![image](https://github.com/franco05hk/PowerBI/assets/71271948/266d0a77-68ee-46ea-9a65-ed2189472ee3)
 ![image](https://github.com/franco05hk/PowerBI/assets/71271948/3e425ae8-5116-4278-9fc7-9fe9c5d48781)
-
-# Methodology
-- 630 random participants from the internet has been contribute on the survey and simple data cleansing in excel and visualization is done using PowerBI.
 
 # Key Takeaways
 - The data landscape is inclusive in terms of gender pay equality.
@@ -23,6 +20,9 @@ This PowerBI project is aimed to process and visualize the data from a survey ab
 - Compensation, remote work, and work/life balance are primary job motivators.
 - The survey indicates a diverse set of industries participants are engaged in.
 - Perceptions on breaking into the data field vary, with a significant portion finding it neither easy nor difficult.
+  
+# Methodology
+- 630 random participants from the internet has been contribute on the survey and simple data cleansing in excel and visualization is done using PowerBI.
 
 # Questions:
 <br>Q1. Which title best fits your current role
