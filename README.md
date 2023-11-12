@@ -1,5 +1,6 @@
 # Introduction
 This PowerBI project is aimed to process and visualize the data from a survey about the data industry. 
+HR Analysis project is aimed to analyse the company internal employee demographic to gain insight.
 
 # Abstract
 - The average age of participants is 30 years.
